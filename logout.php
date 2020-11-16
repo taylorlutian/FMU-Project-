@@ -4,5 +4,5 @@ session_destroy();
 ?> 
 
 <script> 
-location.href='homepage2.html';
+location.href='login.html';
 </script>
